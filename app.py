@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/quotes")
 def index():
-    return jsonify(
+    return <p> jsonify(
         {
 
             "id": '1',
@@ -140,6 +140,7 @@ def index():
             "pic": "https://www.pngjoy.com/pngm/627/8663279_rami-malek-elliot-alderson-transparent-png.png"
         }
     )
+</p?
 
 
 if __name__ == '__main__':
