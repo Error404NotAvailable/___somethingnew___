@@ -222,6 +222,18 @@
             "quote":"If you pull the right strings, a puppet will dance any way you desire.",
             "speaker":"Whiterose.",
             "pic":"https://bleedingcool.com/wp-content/uploads/2019/10/mrrobot_s3_cast_bd-wong-1200x900.jpg"
+        },
+        {
+            "id":"38",
+            "quote":"Trust me, in this day and age, it's sicker not having panic attacks. Since when did pretending everything's okay suddenly become the almighty norm?",
+            "speaker":"Darlene.",
+            "pic":"https://www.teahub.io/photos/full/65-655477_sunglasses-darlene-mr-robot.jpg"
+        },
+        {
+            "id":"39",
+            "quote":"But I'm only a vigilante hacker by night. By day, just a regular cybersecurity engineer. Employee number ER28-0652",
+            "speaker":"Elliot.",
+            "pic":"https://i.pinimg.com/originals/a4/c2/d0/a4c2d0359b2fafb846658a2b5e41bceb.png"
         }
     ]
 }
