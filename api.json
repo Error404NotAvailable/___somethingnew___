@@ -227,13 +227,19 @@
             "id":"38",
             "quote":"Trust me, in this day and age, it's sicker not having panic attacks. Since when did pretending everything's okay suddenly become the almighty norm?",
             "speaker":"Darlene.",
-            "pic":"https://www.teahub.io/photos/full/65-655477_sunglasses-darlene-mr-robot.jpg"
+            "pic":"https://i.pinimg.com/originals/30/3c/34/303c347aa71cd99e09b9a73d340e5b91.jpg"
         },
         {
             "id":"39",
             "quote":"But I'm only a vigilante hacker by night. By day, just a regular cybersecurity engineer. Employee number ER28-0652",
             "speaker":"Elliot.",
             "pic":"https://i.pinimg.com/originals/a4/c2/d0/a4c2d0359b2fafb846658a2b5e41bceb.png"
+        },
+        {
+            "id":"40",
+            "quote":"They were so powerful, they wrote the laws to benefit themselves. They got away with everything because they banked on us, all of us, to trust the system. That was our vulnerability, and they took advantage of it.",
+            "speaker":"Darlene.",
+            "pic":"https://i.pinimg.com/originals/30/3c/34/303c347aa71cd99e09b9a73d340e5b91.jpg"
         }
     ]
 }
